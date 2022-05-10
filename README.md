@@ -1,11 +1,11 @@
 # bauherrengemeinschaft
-This is an aspirational blueprint / guide to develop family-friendly housing created by and for end-users/friends to live in. 
+This is an aspirational blueprint / guide to develop Candian family-friendly housing created by and for end-users/friends to live in. 
 
-This idea is inspired by the [developments](https://de.wikipedia.org/wiki/Bauherrengemeinschaft) in Germany.
+We break down the creation of these projects into components and discusses their challenges, solutions, how-tos and intricacies so that you can make your own __Canadian Dream ©__
+
+The idea is inspired by the [developments](https://de.wikipedia.org/wiki/Bauherrengemeinschaft) in Germany.
 
 As well as the efforts of [fans](https://www.larchlab.com/baugruppen/) to bring the concept to North America.
-
-This guide breaks down the creation of these projects into components and discusses their challenges, solutions, how-tos and intricacies so that you can make your own __Canadian Dream ©__
 
 ## File index
 
