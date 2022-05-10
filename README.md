@@ -1,7 +1,4 @@
 # bauherrengemeinschaft
-Aspirational blueprint to co-develop a family-focused apartment building with friends in Canada, inspired by the bauherrengemeinschaft buildings in Germany. AKA Baugruppen.
-
-## Forward
 This is an aspirational blueprint / guide to develop family-friendly housing created by and for end-users/friends to live in. 
 
 This idea is inspired by the [developments](https://de.wikipedia.org/wiki/Bauherrengemeinschaft) in Germany.
